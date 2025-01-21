@@ -62,5 +62,5 @@ class TestMatrixOperations(unittest.TestCase):
             Ans.append(row_sum)
         self.assertEqual(Ans, [20, 40, 60])
 
-if __name__ == "__main__":
+if __name__ == "__ma
     unittest.main()
